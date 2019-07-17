@@ -3,6 +3,8 @@
 Installation
 ============
 
+.. include:: change-filter.rst
+
 This page provides information about installing Gauge. If you are new to Gauge, we recommend that you refer to the `Getting Started <https://gauge.org/get_started>`__ guide.
 
 .. _install_gauge:
